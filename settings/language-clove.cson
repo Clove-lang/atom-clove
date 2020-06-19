@@ -1,0 +1,19 @@
+'.source.clove':
+  'editor':
+    'increaseIndentPattern': '(^.*(\\{[^}]*|\\([^)]*)$|^.*\\=\\s*$)'
+    'decreaseIndentPattern': '^\\s*(\\}|\\))'
+    'commentStart': '// '
+'.keyword.other.documentation.clovedoc.clove':
+  'editor':
+    'completions': [
+      'author'
+      'version'
+      'param'
+      'return'
+      'exception'
+      'see'
+      'since'
+      'serial'
+      'deprecated'
+      'link'
+    ]

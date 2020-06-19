@@ -1,0 +1,11 @@
+{
+  "name": "language-clove",
+  "version": "1.1.10",
+  "description": "clove language support in Atom",
+  "repository": "https://github.com/clove-lang/atom-clove",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
